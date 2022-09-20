@@ -1,35 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Minha página</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <style>
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+            h2{
+                font: times new roman;
+                text-decoration: underline;
+                text-align: center;
+                background: black;
+                color: white;
+                font-family: Times New Roman;
+            }
+            ol li{
+                color: white;
+                font-weight: bold;
+                text-align: center;
+                font-size: 25px;
+                background: navy;
+                padding: 5px;
 
-<html lang="pt-br">
-<head><meta charset="utf-8">
-<link rel="stylesheet" href="style.css">
-<style>
-
-</style>
-  <title>
-    hisoria do corinthians
-  </title>
-</head>
-
-<body>
-<header>
-<h1>time de futebol corinthians</h1>
-</header>
-
-<div>
-<p></p>
-</div>
-
-<footer>
-  <p></p>
-</footer>
-
-
-</body>
-
-
-
-
-
+            }
+        </style>
+    </head>
+   
+    <body bgcolor="yellow">
+       
+        <h1>SITE DO PROFESSOR RÔMULO</h1>
+        <img https://midias.correiobraziliense.com.br/_midias/jpg/2021/10/06/675x450/1_motociclistas_defendem_que_atividade_e_arte_mas_atualmente_ela_deveria_ser_realizada_somente_em_eventos_de_exibicao_por_conta_da_direcao_perigosa-6903696.jpg>
+        <p id="primeirop">.grau é arte </p>
+        <p id="segundop">2º.244 não é crime </p>
+        <p id="terceirop">3º quebrão puxo corto e raspo <u>Parágrafo</u> do meu site</p>
+        
+        
+        
+        
+        <p><a href= https://youtu.be/VkLl353i7Oo> clique aquipara assistir um video sobre</a></p>
+  
+       
+    </body>
+</html>
 
 
 
